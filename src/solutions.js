@@ -1,7 +1,7 @@
 export const solutions =  [
     {
         name: "Loop solution",
-        url: "http://localhost:8000/xpass-challenge/loop-solution/solve/",
+        url: "https://xpass-challenge.appspot.com/xpass-challenge/loop-solution/solve/",
         text: "Approach using \"while\" combined with \"return\" statements to solve the challenge.",
         code: `public class LoopSolution implements Solution {
 
@@ -54,6 +54,6 @@ export const solutions =  [
     }
 
 }`,
-        url: "http://localhost:8000/xpass-challenge/math-solution/solve/"
+        url: "https://xpass-challenge.appspot.com/xpass-challenge/math-solution/solve/"
     }
 ]
