@@ -1,0 +1,20 @@
+h2 {
+    text-align: center;
+}
+
+.solution-container {
+    margin-bottom: 50px;
+}
+
+.solution-input {
+    width: 200px !important;
+}
+
+.code-block {
+    font-family: "Fira Code", monospace;
+    text-align: left;
+    padding: 10px;
+    background: rgb(40, 42, 54);
+    border-radius: 5px;
+    margin: auto auto 20px;
+}

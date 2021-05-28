@@ -1,0 +1,13 @@
+.solve-input-container {
+    width: 100%;
+    height: 15px;
+}
+
+.solve-input-group {
+    width: 30%;
+    float: right;
+}
+
+.display-result {
+    text-align: center;
+}
